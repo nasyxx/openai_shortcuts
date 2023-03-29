@@ -24,3 +24,7 @@ Based on https://github.com/reorx/Share-to-ChatGPT-Shortcut v1.2.0
 + ToEN :: https://www.icloud.com/shortcuts/dafcd12897f047728a64ed64a8831e75
 + To Classical ZH :: https://www.icloud.com/shortcuts/7572d17dc8614b449aaf23b394e1d25d
 + Polish to academic style :: https://www.icloud.com/shortcuts/eb5320dd79b047da99c9b89c96be8c4b
+
+* Popcilp
+
+In mac app store: https://apps.apple.com/us/app/popclip/id445189367?mt=12
